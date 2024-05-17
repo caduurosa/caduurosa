@@ -12,6 +12,6 @@ A technology passionate looking for a internship opportunity.
 
 <p align="center">💬 Reach out to me:</p>
 <div align="center">
-  <a href="mailto:caducaducadu40@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Hotmail&logo=Hotmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hotmail logo"  /></a>
+  <a href="mailto:caducaducadu40@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hotmail logo"  /></a>
   <a href="https://www.linkedin.com/in/caduurosa/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  /></a>
 </div>
