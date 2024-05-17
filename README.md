@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=10CF00&center=true&random=false&width=435&lines=Hello+there%2C+I'm+Duca!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=#00BFFF&center=true&random=false&width=435&lines=Hello+there%2C+I'm+Duca!)](https://git.io/typing-svg)
 
 A technology passionate looking for a internship opportunity.
 
