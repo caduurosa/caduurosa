@@ -4,9 +4,9 @@ A technology passionate looking for a internship opportunity.
 
 ### 📚 I'm currently studying:</p>
 <ul align="left">
-<li>JAVA.
+<li>JavaScript.
 <li>Algorithms and Data Structure.
-<li>Programming logic with JAVA.
+<li>Programming logic with C.
 <li>and others concepts!
 </ul>
 
