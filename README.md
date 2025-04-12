@@ -6,7 +6,7 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-        ducabot
+        ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴛʜɪɴɢ ᴇʟꜱᴇ?
     
 </p>                                                                                                                            
                                                                                                   
