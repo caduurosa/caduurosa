@@ -6,7 +6,7 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-        𝕯𝖚𝖈𝖆𝖇𝖔𝖙
+        ducabot
     
 </p>                                                                                                                            
                                                                                                   
@@ -16,10 +16,14 @@
 
     
     │▸ he/him - brazilian - (pt/br + english)
-    │   ┗ ▸ Software developer & Cyber Security                                               
+    │   ┗ ▸ offensive security, red teaming, pentesting                                             
     │▸ learning
         ┗ ▸  operating systems;
-          ▸  programming logic with C;
+          ▸  exploit coding;
           ▸  networking knowledge;
-          ▸  english;
-          ▸  python;
+          ▸  information gathering;
+          ▸  threat modeling;
+          ▸  vulnerability assessment;
+          ▸  pentest on web and android aplications;
+          ▸  social engineering;
+          ▸  CORS, CSRF, SSRF, XSS, SQL Injection, GraphQL, etc...
