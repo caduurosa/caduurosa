@@ -16,7 +16,7 @@
 
     
     │▸ he/him - brazilian - (pt/br + english)
-    │   ┗ ▸ offensive security, red teaming, pentesting                                             
+    │   ┗ ▸ Computer Science student, offensive security, red teaming, pentesting                                             
     │▸ learning
         ┗ ▸  operating systems;
           ▸  exploit coding;
