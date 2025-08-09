@@ -6,24 +6,21 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-        ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ꜱᴏᴍᴇᴛʜɪɴɢ ᴇʟꜱᴇ?
+        ꜱʏꜱᴛᴇᴍ.ᴏᴜᴛ.ᴘʀɪɴᴛʟɴ("ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ");
     
 </p>                                                                                                                            
                                                                                                   
                                                                                                     
         
-    about me:
-
-    
-    │▸ he/him - brazilian - (pt/br + english)
-    │   ┗ ▸ Computer Science student, offensive security, red teaming, pentesting                                             
-    │▸ learning
-        ┗ ▸  operating systems;
-          ▸  exploit coding;
-          ▸  networking knowledge;
-          ▸  information gathering;
-          ▸  threat modeling;
-          ▸  vulnerability assessment;
-          ▸  pentest on web and android aplications;
-          ▸  social engineering;
-          ▸  CORS, CSRF, SSRF, XSS, SQL Injection, GraphQL, etc...
+    ᴀʙᴏᴜᴛ ᴍᴇ:
+    │▸ ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴ/ᴜꜱ + ᴋᴏ/ᴋʀ)
+    │   ┗ ▸ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ, ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.               
+    │▸ ʟᴇᴀʀɴɪɴɢ
+    ┗   ▸  ᴊᴀᴠᴀ ꜰᴜɴᴅᴀᴍᴇɴᴛᴀʟꜱ;
+        ▸  ᴏʙᴊᴇᴄᴛ-ᴏʀɪᴇɴᴛᴇᴅ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ (ᴏᴏᴘ);
+        ▸  ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇ ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ;          
+        ▸  ᴠᴇʀꜱɪᴏɴ ᴄᴏɴᴛʀᴏʟ ᴡɪᴛʜ ɢɪᴛ/ɢɪᴛʜᴜʙ;          
+        ▸  ᴅᴀᴛᴀʙᴀꜱᴇꜱ;          
+        ▸  ᴄᴏᴅᴇ ʙᴇꜱᴛ ᴘʀᴀᴄᴛɪᴄᴇꜱ;          
+        ▸  ᴅᴇʙᴜɢɢɪɴɢ ᴀɴᴅ ᴛʀᴏᴜʙʟᴇꜱʜᴏᴏᴛɪɴɢ;          
+        ▸  ɪɴᴛʀᴏᴅᴜᴄᴛᴏʀʏ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ (ʜᴛᴍʟ, ᴄꜱꜱ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ)
